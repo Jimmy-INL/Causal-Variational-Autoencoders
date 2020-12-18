@@ -4,16 +4,12 @@ The main objective of this project is to conceptualize Variational Autoencoders 
 
 ## Getting Started
 
-The notebook in the codes folder of this repos has step by step walkthough of the project. [Here](https://youtu.be/-raQPS2Xx2Q) is a video overview of the porject deliverables and concepts.
+The notebook in the codes folder of this repos has step by step walkthough of the project. [Here](https://youtu.be/20rIOjDVz0Y) is a video overview of the porject deliverables and concepts.
 
 ### Prerequisites
 
 - Jupyter Notebook (you will need to setup GPU)
 - Or Google Colab
-
-```
-Give examples
-```
 
 ### Dependencies
 
@@ -41,7 +37,7 @@ For example :
 
 ## Contributing
 
-This project is a joint contribution of Kshitij Mayank, Kartik Lal and Vivek Sagar as a part of CS7290 curriculum at Northeastern University, further contributions using pull requests are welcome.
+This project is a joint contribution of Kshitij Mayank, Kartik Lal and Vivek Sagar as a part of CS7290 (Causal Modeling in Machine Learning) curriculum at Northeastern University, further contributions using pull requests are welcome.
 
 
 ## Acknowledgments
